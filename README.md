@@ -19,3 +19,13 @@ and modelling on the collected dataset.
 evaluate their model performance via SAS Enterprise Miner.
 - To discuss the potential strategies to enhance the performance of the selected models.
 - To suggest potential business strategy for customer retention
+
+## Tools Used
+### Talend Data Integration
+- It is used to integrate two different sets of datasets into one unified data
+### Talend Data Preparation
+- It is used to perform basic data cleaning and preprocessing like fixing invalid values,
+standardizing data formats, etc.
+### SAS Enterprise Miner
+- It is used to perform data preprocessing in handling missing values, correlation analysis,
+data partitioning, and data modelling for Decision Tree, Bagging and Boosting
